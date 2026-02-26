@@ -1,0 +1,2 @@
+Guid,CreatedDate,LastModifiedDate,IsDisqualified,EffectiveToDate,EffectiveFromDate,ProductId,Reason,RootProductId,ParentProductId,Industry__c
+4b7c711d-6261-48f6-84ef-ea43666835f2,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,true,2026-11-01,2024-08-01,39778158-0a07-41ad-ae16-77ae5fc934a3,#N/A,90950a1f-1a2d-471e-8435-81aa5b28777e,90950a1f-1a2d-471e-8435-81aa5b28777e,Recreation
