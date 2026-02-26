@@ -1,6 +1,6 @@
 Guid,Name,CreatedDate,LastModifiedDate,NumberOfCategories,Code,Description,EffectiveEndDate,EffectiveStartDate,CatalogType
-1707a049-a2c3-4e3e-8748-e4b5a1d4e7c8,Hardware Catalog,2026-02-10T12:05:25.000+0000,2026-02-17T11:41:59.000+0000,6,#N/A,#N/A,#N/A,#N/A,Sales
-503643fa-f533-470c-bedf-0ab0a4d6389a,POS Catalog,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,1,PS001,Point of Sale Catalog,#N/A,#N/A,Sales
-717ac190-187b-4bd4-8e0b-91d6a5710482,Thermal Management Catalog,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,2,TMC00A10,Thermal Management Catalog,#N/A,#N/A,Sales
-9c8bf90f-aa17-4695-b13f-fc0b7ca425d0,Service Catalog,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,4,#N/A,#N/A,#N/A,#N/A,Sales
-eef81d3f-5052-42a5-b994-53a9e888f47e,Software Catalog,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,2,#N/A,#N/A,#N/A,#N/A,Sales
+fdc816af-aafb-4f0b-b6f6-3aa1a08091d6,Hardware Catalog,2025-12-09T20:38:48.000+0000,2025-12-10T13:26:24.000+0000,6,#N/A,#N/A,#N/A,#N/A,Sales
+41bea586-73b7-4d98-8967-75b2eec7089e,POS Catalog,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,1,PS001,Point of Sale Catalog,#N/A,#N/A,Sales
+aa2e6881-d147-419a-9fc9-9804eb96769c,Thermal Management Catalog,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,2,TMC00A10,Thermal Management Catalog,#N/A,#N/A,Sales
+805d16e8-763d-486a-b020-291d1c1d59a2,Service Catalog,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,4,#N/A,#N/A,#N/A,#N/A,Sales
+9aafe896-b899-4309-bccf-ebd33287837f,Software Catalog,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,2,#N/A,#N/A,#N/A,#N/A,Sales
