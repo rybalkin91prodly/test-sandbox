@@ -1,3 +1,3 @@
 Guid,Name,CreatedDate,LastModifiedDate,IsActive,IsArchived,Description,IsStandard,ValidFrom,ValidTo
-00000001-c64a-496c-9b10-53674a81ae2a,Standard Price Book,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,true,false,#N/A,true,#N/A,#N/A
-d23f01f6-2dc1-4096-9a4f-c2c2b438343e,Nonprofit,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,true,false,#N/A,false,#N/A,#N/A
+00000001-c64a-496c-9b10-53674a81ae2a,Standard Price Book,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,true,false,#N/A,true,#N/A,#N/A
+e6da8ca5-1efd-4cfd-91ed-c15dbe457b23,Nonprofit,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,true,false,#N/A,false,#N/A,#N/A
