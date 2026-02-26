@@ -1,2 +1,2 @@
 Guid,Name,CreatedDate,LastModifiedDate,ProrationPolicyType,RemainderStrategy,ArePartialPeriodsAllowed
-be19bdf0-6179-4f44-a6f1-eb1b1e4e171a,Default Proration Policy,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,StandardTimePeriods,AddToLast,true
+c25cf7e9-e7c8-48c8-b180-309d79270fd3,Default Proration Policy,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,StandardTimePeriods,AddToLast,true
