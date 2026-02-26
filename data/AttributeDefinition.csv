@@ -1,29 +1,29 @@
 Guid,Name,CreatedDate,LastModifiedDate,Label,Description,DataType,IsActive,IsRequired,DefaultValue,SourceSystemIdentifier,ValueDescription,DefaultHelpText,Code,DeveloperName
-0f2c7076-7ed9-4f1d-a8d0-a86b18faf8a8,ECOM Code,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,ECOM Code,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,ECOM_Code
-1bfda2cd-c2aa-41ba-8698-f1a4aa2c0b58,Training,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Training,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Training
-26db37f1-1d79-4402-aea2-a24412c5ec7e,Tablet Color,2026-02-17T11:30:05.000+0000,2026-02-17T13:49:05.000+0000,Tablet Color,#N/A,Picklist,true,true,White,#N/A,#N/A,#N/A,#N/A,tablet_color
-2bb8d43c-3b8d-45e0-ba95-b1fe1842102f,Powder Weight,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Powder Weight,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Powderweight
-4a55838e-908c-4574-bf4e-99df39843039,Display,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Display,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Display
-4eeb893e-42a0-4bc6-9dac-4af9881b9402,Register Type,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Type,#N/A,Picklist,true,true,Cash & Card,#N/A,#N/A,#N/A,#N/A,Register_Type
-50a10d5b-7efa-486e-bf11-5b0f2ab02941,Region,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Region,#N/A,Picklist,true,false,South,#N/A,#N/A,#N/A,#N/A,Region
-681006dc-c515-48eb-9870-28ced456572e,Gel Quantity,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Gel Quantity,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,GELQuantity
-6841f8d9-b7ce-4788-803b-b77458d42858,Register,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Register,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Register
-8123ec54-0b9f-4596-b3f1-4bcdf2ce17a8,POS Type,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,POS Type,#N/A,Picklist,true,false,Multichannel POS,#N/A,#N/A,#N/A,#N/A,POS_Type
-8e8808a8-3bb1-4a6d-bea3-05cab09ba61c,Processor,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Processor,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Processor
-91c956ef-1d6c-4ef2-ac69-ecbc5fddc401,Support Level,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Support Level,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Support_Level
-98c4bf43-ad96-4835-9ac4-0ce5dd19b953,Printer Type,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Printer,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Printer_Type
-9cb179b2-d597-4545-b77f-d7dd99877ed2,Scanner,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Scanner,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Scanner
-a3f8adaf-32d0-46ea-bfee-a1c7fb4314c6,Paper Size,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Printer Paper,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Paper_Size
-a7162507-ebd1-422c-b8da-f52aa84acdab,SIM Type,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,SIM Type,#N/A,Picklist,true,true,eSIM,#N/A,#N/A,#N/A,#N/A,sim_type
-aa40a20e-44b3-4319-b2d3-8452427266fe,POS Code,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,POS Code,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,POS_Code
-b0270c39-0ec0-430f-943c-cd4b1655b942,Memory,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Memory,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Memory
-bcc30a1f-7114-4ae1-975c-afc34ad7b635,Screen Size,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Screen Size,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Screen_Size
-bfbf979d-9953-4d4d-982a-5a557d3c7a86,Advance Ecommerce,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Advance Ecommerce,#N/A,Checkbox,true,false,false,#N/A,#N/A,#N/A,#N/A,Advance_Ecommerce
-d1b4e473-c3e8-4ac0-83b3-321964ae711a,TabletStorageSize,2026-02-17T11:49:42.000+0000,2026-02-17T11:49:42.000+0000,Tablet Storage Size,#N/A,Picklist,true,true,128GB,#N/A,#N/A,#N/A,#N/A,tablet_storage_size
-dfbac1c0-9ff8-4ba7-a1e0-85962fd7c69a,Paste Ratio,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Paste Ratio,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,PCR0090CD,PasteRatio
-e21dfbb8-092b-48ee-8b1a-f251d74feb89,Graphics,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Graphics,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Graphics
-e61dd229-975a-44ca-a142-3f69c898b9f8,Wireless,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Wireless,#N/A,Checkbox,true,false,FALSE,#N/A,#N/A,#N/A,#N/A,Wireless
-eeee35ca-ecaa-465e-aae2-919f9513da65,Tablet Display Size,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Tablet Display Size,#N/A,Picklist,true,false,15 inch,#N/A,#N/A,#N/A,#N/A,tablet_display_size
-f35b0ab6-410c-4ce9-820f-0fc277d47652,Storage,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Storage,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Storage
-f9c371e8-4921-4d27-b63f-2c062083075e,Shipper,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Shipper,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Shipper
-fbce6533-045a-4753-bcfa-5b8acf0f3c66,Scanner Type,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,Scanner Type,#N/A,Picklist,true,false,Handheld,#N/A,#N/A,#N/A,#N/A,Scanner_Type
+fa7a23d9-0df4-45bd-a908-036b8bd78672,ECOM Code,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,ECOM Code,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,ECOM_Code
+eb261395-e832-4d49-964e-3e22233d336a,Training,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Training,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Training
+5f4c0de0-bc74-4d2a-a893-c031de69d766,TabletColor,2025-12-10T13:23:08.000+0000,2025-12-10T13:23:08.000+0000,Tablet Color,#N/A,Picklist,true,true,White,#N/A,#N/A,#N/A,#N/A,tablet_color
+2eceef43-28ea-4a73-b528-9fb5b935936a,Powder Weight,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Powder Weight,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Powderweight
+2794f0fb-d19e-4dc9-be55-1a7bfbaf0239,Display,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Display,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Display
+a6a06566-685e-4e1c-8d2f-482951556854,Register Type,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Type,#N/A,Picklist,true,true,Cash & Card,#N/A,#N/A,#N/A,#N/A,Register_Type
+840b02ed-68d8-438d-9fde-38e1ecf755a0,Region,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Region,#N/A,Picklist,true,false,South,#N/A,#N/A,#N/A,#N/A,Region
+cdb79fcd-13f4-4fc9-b45c-66539b5ce1c6,Gel Quantity,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Gel Quantity,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,GELQuantity
+a012cc8b-8eac-4166-bc97-ee36591c885b,Register,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Register,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Register
+3ab1e65f-e7cb-4b29-a0e1-49e79df780a9,POS Type,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,POS Type,#N/A,Picklist,true,false,Multichannel POS,#N/A,#N/A,#N/A,#N/A,POS_Type
+c02cdd40-6014-4d6a-8ee8-d2cc60b61feb,Processor,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Processor,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Processor
+b819a60e-8d41-4b93-b092-297e8fecfb80,Support Level,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Support Level,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Support_Level
+35b0d7da-1393-4da0-a4b8-b7bada69118d,Printer Type,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Printer,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Printer_Type
+fe3f04c3-537b-4c5d-8c8e-301ee08e19a9,Scanner,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Scanner,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Scanner
+2822a180-12c4-4086-9c56-4087076ca2a3,Paper Size,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Printer Paper,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Paper_Size
+50e017f9-0f4d-4ac2-a39a-6ad5e72ab338,SIM Type,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,SIM Type,#N/A,Picklist,true,true,eSIM,#N/A,#N/A,#N/A,#N/A,sim_type
+dabca765-c2cd-4611-b6ee-1fbe7d483f8d,POS Code,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,POS Code,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,POS_Code
+a1afc784-e81a-4919-91de-188312242fdd,Memory,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Memory,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Memory
+fd115acd-a6be-4ee8-b280-160bb9a9e1b8,Screen Size,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Screen Size,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Screen_Size
+5acefe3d-26ee-4c9a-a1c4-be0006bab1df,Advance Ecommerce,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Advance Ecommerce,#N/A,Checkbox,true,false,false,#N/A,#N/A,#N/A,#N/A,Advance_Ecommerce
+2c81aa70-063e-4336-ba97-0450e0628bd9,TabletStorageSize,2025-12-10T13:29:00.000+0000,2025-12-10T13:29:00.000+0000,Tablet Storage Size,#N/A,Picklist,true,true,128GB,#N/A,#N/A,#N/A,#N/A,tablet_storage_size
+5533223f-fd26-4b64-8018-460150acae1c,Paste Ratio,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Paste Ratio,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,PCR0090CD,PasteRatio
+b670cee4-873d-41a8-aef0-d36977309cf0,Graphics,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Graphics,#N/A,Picklist,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Graphics
+7d44fb28-6d4c-42c8-a886-59917c517fee,Wireless,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Wireless,#N/A,Checkbox,true,false,FALSE,#N/A,#N/A,#N/A,#N/A,Wireless
+05d5b583-8c76-4c76-b70a-40a0b7a73e2f,Tablet Display Size,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Tablet Display Size,#N/A,Picklist,true,false,15 inch,#N/A,#N/A,#N/A,#N/A,tablet_display_size
+0c42f68c-efb5-46ae-b54c-e6e44d881692,Storage,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Storage,#N/A,Picklist,true,true,#N/A,#N/A,#N/A,#N/A,#N/A,Storage
+cbd93c48-ca30-40e6-8ccb-6e8df55e0310,Shipper,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Shipper,#N/A,Text,true,false,#N/A,#N/A,#N/A,#N/A,#N/A,Shipper
+87d7d7e8-6aad-4c07-9a3c-230e3c3e88ea,Scanner Type,2025-12-09T20:38:48.000+0000,2025-12-09T20:38:48.000+0000,Scanner Type,#N/A,Picklist,true,false,Handheld,#N/A,#N/A,#N/A,#N/A,Scanner_Type
