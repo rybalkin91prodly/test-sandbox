@@ -1,0 +1,2 @@
+Guid,Name,CreatedDate,LastModifiedDate,SellingModelType,PricingTerm,PricingTermUnit,Status,DoesAutoRenewAssetByDefault
+90fd0b7c-a626-4a8c-9af6-124309e8af6a,Term Based - Yearly,2026-02-10T12:05:25.000+0000,2026-02-10T12:05:25.000+0000,TermDefined,1,Annual,Active,false
